@@ -1,4 +1,4 @@
-
+![photo](https://github.com/Jupiter-Github/Recipe-Finder/commit/ae2cf681f207c5f86767e630db879717b408f981#commitcomment-140408000)
 # Recipe Finder Web Application
 
  Recipe Finder is a recipe web application, where a user can search for a variety of recipes and find the ingredients and quantities needed to make each recipe item. Also, favorite recipe items can be saved in the browser's local storage. It is easy to find different recipes for vegetarians and meat eaters, as well as those who want to lose weight.
