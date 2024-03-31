@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.displayImage {
+  height: 100%;
+  width: 100%;
+}
+.displayCardMiddle {
+  width: 390px;
+  display: flex;
+  /* border: 2px solid black; */
+  justify-content: space-between;
+}
+.displayCard {
+  padding-left: 5px;
+  width: 500px;
+  /* border: 2px solid black; */
+}
+@media (max-width: 426px) {
+  .displayCardMiddle {
+    flex-direction: column;
+    margin: 5px 0;
+    width: 100%;
+  }
+  .displayCard {
+    width: 100%;
+  }
+}
+@media (max-width: 770px) {
+  .displayCardMiddle {
+    margin: 10px 0;
+  }
+}
